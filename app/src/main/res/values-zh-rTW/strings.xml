@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">請輸入姓名</string>
+    <string name="height">請輸入身高</string>
+    <string name="weight">請輸入體重</string>
+</resources>
